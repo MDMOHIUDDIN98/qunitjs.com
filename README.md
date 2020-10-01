@@ -1,4 +1,4 @@
-# qunis.com
+# qus.com
 
 This repository houses the content and code for the [qunitjs.com](https://qunitjs.com/) website.
 
